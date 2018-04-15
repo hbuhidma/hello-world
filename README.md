@@ -1,2 +1,5 @@
 # hello-world
-First repo
+
+Hi Humans!
+
+hubot here, I like Node.js and Coffeescript.
